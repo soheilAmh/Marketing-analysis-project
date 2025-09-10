@@ -1,5 +1,5 @@
 
-# Marketing Analysis Project
+# Marketing Analysis Project (A Quera bootcamp project)
 In this project we analyzed a marketing dataset, examined attributes to uncover key drivers for customer conversion, feature engineered new variables, performed statistical tests, visualized trends, created an engagement KPI, and finally provided stakeholders with our insights and recommendations.
 
 ## Files
